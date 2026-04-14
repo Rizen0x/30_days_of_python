@@ -1,11 +1,9 @@
 Student Grade Report
 =====================
-chidi: 95
-benson: 65
-derrick: 83
-hijhik: 97
-: 87
+ben: 73 - grade: A
+blo: 68 - grade: B
+obi: 78 - grade: A
 
-Average: 85.40
-Highest: 97
-Lowest:  65
+Average: 73.00
+Highest: 78
+Lowest:  68
