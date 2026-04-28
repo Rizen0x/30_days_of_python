@@ -1,9 +1,0 @@
-Student Grade Report
-=====================
-ben: 73 - grade: A
-blo: 68 - grade: B
-obi: 78 - grade: A
-
-Average: 73.00
-Highest: 78
-Lowest:  68
